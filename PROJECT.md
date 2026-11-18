@@ -12,58 +12,52 @@ Section: 1C
 Year Level: 1st Year
 
 ## Purpose
-Academic personal website portfolio.
-
-## Target Audience
-Teachers, classmates, and potential professional audiences.
-
-## Portfolio Goals
-TBD
+Academic personal website portfolio for teachers, classmates, and potential professional audiences.
 
 ## Personal Introduction
-TBD
+First-year BSIT student interested in computers, technology, programming, and learning how digital tools work.
 
 ## Interests
-TBD
+Online and computer games; exploring technology and computers; learning programming and coding; anime and movies; music; sports and running; chess; discovering new areas of Information Technology.
 
 ## Career Goals
-TBD
+Explore technology-related career paths, continue developing IT knowledge and skills, and apply what he learns to useful solutions.
 
 ## Technical Skills
-TBD
+Basic Computer Troubleshooting.
 
 ## Personal Skills
-TBD
+Problem-Solving; Teamwork and Collaboration; Willingness to Learn.
 
 ## Projects and Activities
-TBD — at least two real school or practice projects are required.
+Two clearly labeled placeholders are included in the website. Replace them with at least two real school or practice projects, including each project's title, description, purpose, tools used, and actual screenshot.
 
 ## Contact Information
 Email: princethirdyj@gmail.com
-Phone number: Provided by the user; do not publish until confirmed as appropriate for a public portfolio.
-Professional social profile: TBD
+Facebook: Link placeholder; add the correct profile URL before publishing.
+Do not publish a personal phone number.
 
 ## Brand and Personality
-TBD
+Curious, approachable, and learning-focused.
 
 ## Visual Direction
-Modern minimalist portfolio. Light overall theme with a forest-green hero inspired by the user's reference screenshot, warm yellow-orange accents, clean typography, generous spacing, and simple project cards. Use the reference as inspiration only; do not copy it.
+Modern personal portfolio inspired by the supplied reference: forest-green hero, warm yellow-orange accents, light content sections, clear typography, spacious layout, and project image cards. The reference is inspiration only and is not copied.
 
 ## Page Structure
-Home, About Me, Skills, Projects, Contact.
+Home, About Me, Skills, Projects or Activities, Contact, Footer.
 
 ## Assets
-Profile image: placeholder until supplied.
-Project images: placeholders until actual project screenshots are supplied.
+Profile photo: placeholder in the hero; replace with Prince's actual photo.
+Project images: two labeled placeholders; replace with actual project screenshots.
 
 ## Functionality
-HTML5 and CSS3 only. No JavaScript.
+HTML5 and CSS3 only. No JavaScript. Navigation uses section anchors. Email link uses mailto. Facebook URL is a placeholder.
 
 ## Responsive Requirements
-Desktop, tablet, and mobile.
+Responsive desktop, tablet, and mobile layouts. Reduced-motion preference is respected.
 
 ## Avoid
-JavaScript, unnecessary frameworks, generic AI-generated content, excessive animations, and overly complicated code.
+JavaScript, unnecessary frameworks, fabricated projects or images, unsupported skill claims, excessive animation, and complicated code.
 
 ## Current Decisions
-Use separate root-level files: index.html and style.css. Keep the project lightweight and understandable for a first-year student. Do not invent personal details, skills, or project accomplishments.
+Keep root-level index.html and style.css. Keep the code understandable for a first-year student. Add real project details, images, profile photo, and Facebook URL before publishing.
