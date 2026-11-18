@@ -61,11 +61,12 @@
           <div class="hero-visual">
             <div class="photo-orbit"></div>
             <div class="photo-placeholder">
-              <span class="photo-plus">+</span>
-              <span class="photo-initials">PTJ</span>
-              <span class="photo-caption"
-                ><img src="assets/images/portfolio-image.png" alt=""
-              /></span>
+              <img
+                class="hero-photo"
+                src="assets/images/portfolio-image.png"
+                alt="Portrait of Prince Thirdy R. Jurolan"
+              />
+              <span class="photo-plus" aria-hidden="true">+</span>
             </div>
             <div class="visual-tag">
               <span class="tag-dot"></span> Learning in progress
@@ -79,7 +80,7 @@
       <section class="section about-section" id="about">
         <div class="container about-grid">
           <div class="section-heading">
-            <p class="section-label">A LITTLE INTRODUCTION</p>
+            <p class="section-label">ABOUT</p>
             <h2>Getting to know <span>Prince.</span></h2>
           </div>
           <div class="about-content">
@@ -115,7 +116,7 @@
       <section class="section skills-section" id="skills">
         <div class="container">
           <div class="section-heading skills-heading">
-            <p class="section-label">WHAT I BRING</p>
+            <p class="section-label">SKILLS</p>
             <h2>Skills I'm <span>building.</span></h2>
             <p class="section-intro">
               These are the skills I currently use and continue to develop as an
@@ -174,7 +175,7 @@
         <div class="container">
           <div class="projects-top">
             <div class="section-heading">
-              <p class="section-label">SELECTED SCHOOL WORK</p>
+              <p class="section-label">PROJECTS</p>
               <h2>Projects and <span>activities.</span></h2>
             </div>
             <p class="projects-note">
@@ -208,12 +209,11 @@
             <article class="project-card">
               <div class="project-image project-image-two">
                 <span class="placeholder-mark">02</span>
-                <span class="image-instruction"
-                  ><img
-                    src="assets/images/first-project.jpg"
-                    alt="first portfolio"
-                    class="project-photo"
-                /></span>
+                <img
+                  src="assets/images/first-project.jpg"
+                  alt="Screenshot of Prince's first project"
+                  class="project-photo"
+                />
                 <span class="project-arrow" aria-hidden="true">↗</span>
               </div>
               <div class="project-info">
@@ -238,7 +238,7 @@
       <section class="contact-section" id="contact">
         <div class="container contact-inner">
           <div>
-            <p class="section-label">HAVE SOMETHING IN MIND?</p>
+            <p class="section-label">CONTACT</p>
             <h2>Let's start a<br /><span>conversation.</span></h2>
             <p class="contact-copy">
               For questions, school-related conversations, or opportunities to
@@ -266,10 +266,23 @@
 
     <!-- SECTION: FOOTER -->
     <footer class="site-footer">
-      <div class="container footer-inner">
-        <a class="brand footer-brand" href="#home">PTJ<span>.</span></a>
-        <p>© 2026 Prince Thirdy R. Jurolan</p>
-        <a href="#home">Back to top ↑</a>
+      <div class="container footer-main">
+        <div class="footer-intro">
+          <a class="brand footer-brand" href="#home">PTJ<span>.</span></a>
+          <p>Curious about technology. Always learning, exploring, and building.</p>
+        </div>
+        <div class="footer-navigation">
+          <span>EXPLORE</span>
+          <a href="#about">About</a>
+          <a href="#skills">Skills</a>
+          <a href="#projects">Projects</a>
+          <a href="#contact">Contact</a>
+        </div>
+        <a class="footer-back-top" href="#home">Back to top <span aria-hidden="true">↑</span></a>
+      </div>
+      <div class="container footer-bottom">
+        <p>© 2026 Prince Thirdy R. Jurolan. All rights reserved.</p>
+        <span>DESIGNED WITH CURIOSITY <b>✳</b></span>
       </div>
     </footer>
   </body>
